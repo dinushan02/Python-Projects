@@ -1,4 +1,4 @@
-# 2.Number Guessing Game
+# 1.Number Guessing Game
 # Description: Build a game where the computer picks a random number,
 # and the player guesses it. The program gives hints (too high/low) until
 # the correct guess. This teaches random numbers, loops, and conditionals.
@@ -34,3 +34,4 @@ number_guessing_game()
 # Add a maximum number of attempts.
 # Allow the user to choose the range of numbers.
 # Keep a high-score list using a file or list.
+
